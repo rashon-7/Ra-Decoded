@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/gNT6y3G.png" width="100%"/>
 </div>
 <h1 align="center">Whats up! 👋, I'm Rashon Pleasants</h1>
-<h3 align="center">An Email Developer from New Jersey</h3>
+<h3 align="center">A Wordpress Developer from New Jersey</h3>
 <h4 align="center"> I have experience in the fundamentals of HTML / CSS & practical Javascript (i.e. how to manipulate user interfaces, not yet the extreme logical stuff). With a former successful career background in education as a Social Studies Educator, as well as Real Estate Salesperson experience, I realized my desire to find a large scale way to connect with the world. Upon learning software developement, I found my ultimate goal... to establish a successful enterprise within the tech world that positively impacts all of society. <br><br> It could all be wishful thinking, I guess we'll have to find out and see.. </h4>
 
 <hr>
